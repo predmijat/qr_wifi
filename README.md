@@ -67,7 +67,9 @@ so you'll have to duplicate each row:
 
 and then you need to prepare this as a list of strings (surround it with double quotes and add a comma at the end):
 
-`sed -i -e 's/\(.*\)/    "\1",/' qr_ascii.txt`
+```
+sed -i -e 's/\(.*\)/    "\1",/' qr_ascii.txt
+```
 
 #### Displaying QR Code on the display
 
