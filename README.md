@@ -75,7 +75,7 @@ sed -i -e 's/\(.*\)/    "\1",/' qr_ascii.txt
 
 Now you can insert the contents of `qr_ascii.txt` to `qr_code` list in `main.py`.
 
-You should also edit the `msg` list in `main.py` to reflect your SSID and password.
+You should also edit the `msg` list in `main.py` to your liking.
 I used `figlet` to create these.
 
 First part of the code which initializes the OLED screen is taken from the [Waveshare Pico OLED 1.3 Wiki](https://www.waveshare.com/wiki/Pico-OLED-1.3).
