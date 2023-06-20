@@ -1,3 +1,5 @@
+<img src="assets/img1.png" alt="image" width="800"/>
+
 ## What is this?
 
 This repository will show you how to display a QR Code on a Raspberry Pi Pico display,
